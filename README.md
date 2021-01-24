@@ -1,2 +1,2 @@
-# ML_Algorithms
+# ML Algorithms
 Implementation of Machine Learning algorithms using python.
